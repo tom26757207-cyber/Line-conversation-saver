@@ -1,0 +1,5 @@
+{
+  "description": "LINE Chat Intel: A sophisticated AI-powered dashboard for parsing and analyzing LINE conversation exports using Gemini 3 Pro.",
+  "requestFramePermissions": [],
+  "name": "LINE 對話封存生產器"
+}
